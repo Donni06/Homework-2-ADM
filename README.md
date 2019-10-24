@@ -2,6 +2,6 @@
 
 ### Part 1:
 
-#### Al: Q1, Q3
-#### Gamza: Q2, Q4
-#### Luca: Q5, Q4, CRQ2
+#### Al: Q1, Q3, Theoretical Question, Q6
+#### Gamza: Q2
+#### Luca: Q5, Q4, CRQ2, CRQ1
