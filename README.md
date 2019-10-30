@@ -1,6 +1,5 @@
+# Group  #23 
 # Homework-2-ADM Soccer analytics
-# ---- 
-Group  #23 
 
 ## Get the data
 
